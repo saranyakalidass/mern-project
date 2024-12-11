@@ -9,7 +9,7 @@ The MERN-Quiz-App is a place where users can come and attempt the quiz and get t
 <i><h2>4) User Profile Page</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289427-5ec96a82-bac5-48eb-95ca-a3bc52f66c6c.png"/>
 <i><h2>5) Admin Profile with All User's Details Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289430-05895b5f-d208-4e47-8100-8f7b04d79505.png"/>
+
 <i><h2>6) Add Quiz Page in which Admin Post the Quiz into the MongoDB Database</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289441-0be05676-c1bc-40cd-a5e6-77f58b584ee9.png"/>
 <i><h2>7) Questions of Quiz Page </h2></i>
