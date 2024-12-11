@@ -4,7 +4,8 @@ Tech Stack: HTML, CSS, JavaScript, MongoDB, React, Redux, Tailwind CSS.
 Deploy Link: [MERN Quiz App](https://mern-quiz-app-ten.vercel.app/)
 
 ## 1) Landing Page
-<img src="https://your-image-hosting.com/landing-page.png"/>
+<img src="![image](https://github.com/user-attachments/assets/86fb787d-baf6-43dd-a913-61a9a16afda3)
+"/>
 
 ## 2) Registration Page
 <img src="https://your-image-hosting.com/registration-page.png"/>
