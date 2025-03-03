@@ -5,7 +5,7 @@ The MERN-Quiz-App is a place where users can come and attempt the quiz and get t
 <i><h2>2) Registration Page</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289419-f87ff37b-3623-43b7-ba62-b0d3a00aee22.png"/>
 <i><h2>3) Login Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289643-388294e7-f5ae-42fc-b135-3b0c6e018aec.png"/>
+<img src="C:\Users\HP\Pictures\Screenshots\Screenshot (43).png"/>
 <i><h2>4) User Profile Page</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289427-5ec96a82-bac5-48eb-95ca-a3bc52f66c6c.png"/>
 <i><h2>5) Admin Profile with All User's Details Page</h2></i>
